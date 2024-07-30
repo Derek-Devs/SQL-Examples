@@ -22,27 +22,30 @@ Technologies Used: SQL
 File: advanced_sql_queries.sql
 
 
-## Setup and Usage
+# Setup and Usage
 To run the Jupyter Notebooks in this repository, follow these steps:
 
-Clone the repository:
+## 1. Clone the repository:
 
 bash
 Copy code
 git clone https://github.com/Derek-Devs/Python-Examples
 cd Python-Examples
-Create a virtual environment:
+
+## 2. Create a virtual environment:
 
 bash
 Copy code
 python -m venv venv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-Install the required packages:
+
+## 3. Install the required packages:
 
 bash
 Copy code
 pip install -r requirements.txt
-Run Jupyter Notebook:
+
+### 4. Run Jupyter Notebook:
 
 bash
 Copy code
@@ -62,8 +65,8 @@ You can install all required packages using the requirements.txt file provided i
 # License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-## Contributing
+# Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
 
-## Contact
+# Contact
 For any questions or inquiries, please message me here on Github.
