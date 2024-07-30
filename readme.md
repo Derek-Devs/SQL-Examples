@@ -26,7 +26,7 @@ File: SupplyChainForecasting.sql
 
 
 # Requirements
-An SQL interface of your choice (It is reccomended to use GoogleBigQuery)
+An SQL interface of your choice (It is reccomended to use GoogleBigQuery or VSCode)
 
 Example datasets (matching data sets coming soon).
 
